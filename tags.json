@@ -1,0 +1,1872 @@
+[
+  {
+    "id": "film",
+    "label": "Film",
+    "count": 109
+  },
+  {
+    "id": "identity",
+    "label": "identity",
+    "count": 93
+  },
+  {
+    "id": "culture",
+    "label": "culture",
+    "count": 88
+  },
+  {
+    "id": "history",
+    "label": "history",
+    "count": 66
+  },
+  {
+    "id": "community",
+    "label": "Community",
+    "count": 62
+  },
+  {
+    "id": "space",
+    "label": "Space",
+    "count": 48
+  },
+  {
+    "id": "archive",
+    "label": "archive",
+    "count": 44
+  },
+  {
+    "id": "photography",
+    "label": "Photography",
+    "count": 43
+  },
+  {
+    "id": "documentary",
+    "label": "Documentary",
+    "count": 41
+  },
+  {
+    "id": "music",
+    "label": "music",
+    "count": 38
+  },
+  {
+    "id": "typography",
+    "label": "typography",
+    "count": 33
+  },
+  {
+    "id": "branding",
+    "label": "Branding",
+    "count": 30
+  },
+  {
+    "id": "publication",
+    "label": "publication",
+    "count": 25
+  },
+  {
+    "id": "storytelling",
+    "label": "storytelling",
+    "count": 24
+  },
+  {
+    "id": "technology",
+    "label": "technology",
+    "count": 19
+  },
+  {
+    "id": "book",
+    "label": "Book",
+    "count": 19
+  },
+  {
+    "id": "animation",
+    "label": "Animation",
+    "count": 19
+  },
+  {
+    "id": "philosophy",
+    "label": "Philosophy",
+    "count": 16
+  },
+  {
+    "id": "wayfinding",
+    "label": "Wayfinding",
+    "count": 16
+  },
+  {
+    "id": "illustration",
+    "label": "Illustration",
+    "count": 16
+  },
+  {
+    "id": "diagram",
+    "label": "diagram",
+    "count": 15
+  },
+  {
+    "id": "communication",
+    "label": "communication",
+    "count": 15
+  },
+  {
+    "id": "brand",
+    "label": "Brand",
+    "count": 15
+  },
+  {
+    "id": "article",
+    "label": "article",
+    "count": 14
+  },
+  {
+    "id": "nature",
+    "label": "Nature",
+    "count": 14
+  },
+  {
+    "id": "digital",
+    "label": "Digital",
+    "count": 13
+  },
+  {
+    "id": "memory",
+    "label": "Memory",
+    "count": 13
+  },
+  {
+    "id": "collage",
+    "label": "Collage",
+    "count": 13
+  },
+  {
+    "id": "installation",
+    "label": "installation",
+    "count": 13
+  },
+  {
+    "id": "future",
+    "label": "future",
+    "count": 13
+  },
+  {
+    "id": "narrative",
+    "label": "Narrative",
+    "count": 13
+  },
+  {
+    "id": "architecture",
+    "label": "architecture",
+    "count": 11
+  },
+  {
+    "id": "design",
+    "label": "design",
+    "count": 11
+  },
+  {
+    "id": "psychology",
+    "label": "Psychology",
+    "count": 10
+  },
+  {
+    "id": "connection",
+    "label": "connection",
+    "count": 10
+  },
+  {
+    "id": "interactive",
+    "label": "interactive",
+    "count": 10
+  },
+  {
+    "id": "emotion",
+    "label": "Emotion",
+    "count": 10
+  },
+  {
+    "id": "london",
+    "label": "London",
+    "count": 9
+  },
+  {
+    "id": "experimental",
+    "label": "experimental",
+    "count": 9
+  },
+  {
+    "id": "cinematography",
+    "label": "Cinematography",
+    "count": 9
+  },
+  {
+    "id": "website",
+    "label": "Website",
+    "count": 9
+  },
+  {
+    "id": "media",
+    "label": "media",
+    "count": 9
+  },
+  {
+    "id": "analogue",
+    "label": "Analogue",
+    "count": 9
+  },
+  {
+    "id": "video",
+    "label": "video",
+    "count": 9
+  },
+  {
+    "id": "data-visualisation",
+    "label": "data visualisation",
+    "count": 8
+  },
+  {
+    "id": "map",
+    "label": "map",
+    "count": 8
+  },
+  {
+    "id": "system",
+    "label": "system",
+    "count": 8
+  },
+  {
+    "id": "politics",
+    "label": "politics",
+    "count": 8
+  },
+  {
+    "id": "colour",
+    "label": "colour",
+    "count": 8
+  },
+  {
+    "id": "logos",
+    "label": "Logos",
+    "count": 7
+  },
+  {
+    "id": "environment",
+    "label": "environment",
+    "count": 7
+  },
+  {
+    "id": "inclusive-design",
+    "label": "inclusive design",
+    "count": 7
+  },
+  {
+    "id": "speculative-design",
+    "label": "speculative design",
+    "count": 7
+  },
+  {
+    "id": "interaction",
+    "label": "Interaction",
+    "count": 7
+  },
+  {
+    "id": "filmmaking",
+    "label": "filmmaking",
+    "count": 7
+  },
+  {
+    "id": "comedy",
+    "label": "comedy",
+    "count": 7
+  },
+  {
+    "id": "sculpture",
+    "label": "sculpture",
+    "count": 7
+  },
+  {
+    "id": "perception",
+    "label": "Perception",
+    "count": 7
+  },
+  {
+    "id": "systems",
+    "label": "systems",
+    "count": 7
+  },
+  {
+    "id": "speculative",
+    "label": "speculative",
+    "count": 7
+  },
+  {
+    "id": "object",
+    "label": "Object",
+    "count": 7
+  },
+  {
+    "id": "information-design",
+    "label": "Information Design",
+    "count": 7
+  },
+  {
+    "id": "political",
+    "label": "political",
+    "count": 6
+  },
+  {
+    "id": "ai",
+    "label": "AI",
+    "count": 6
+  },
+  {
+    "id": "mapping",
+    "label": "Mapping",
+    "count": 6
+  },
+  {
+    "id": "music-video",
+    "label": "music video",
+    "count": 6
+  },
+  {
+    "id": "experience-design",
+    "label": "experience design",
+    "count": 6
+  },
+  {
+    "id": "accessibility",
+    "label": "accessibility",
+    "count": 6
+  },
+  {
+    "id": "art",
+    "label": "art",
+    "count": 6
+  },
+  {
+    "id": "advertising",
+    "label": "advertising",
+    "count": 6
+  },
+  {
+    "id": "museum",
+    "label": "museum",
+    "count": 6
+  },
+  {
+    "id": "theory",
+    "label": "theory",
+    "count": 6
+  },
+  {
+    "id": "semiotics",
+    "label": "semiotics",
+    "count": 6
+  },
+  {
+    "id": "graffiti",
+    "label": "Graffiti",
+    "count": 6
+  },
+  {
+    "id": "visual-communication",
+    "label": "visual communication",
+    "count": 6
+  },
+  {
+    "id": "fashion",
+    "label": "Fashion",
+    "count": 6
+  },
+  {
+    "id": "d\u00e9rive",
+    "label": "D\u00e9rive",
+    "count": 6
+  },
+  {
+    "id": "data",
+    "label": "data",
+    "count": 5
+  },
+  {
+    "id": "sound",
+    "label": "sound",
+    "count": 5
+  },
+  {
+    "id": "editing",
+    "label": "editing",
+    "count": 5
+  },
+  {
+    "id": "nostalgia",
+    "label": "nostalgia",
+    "count": 5
+  },
+  {
+    "id": "research",
+    "label": "Research",
+    "count": 5
+  },
+  {
+    "id": "transport",
+    "label": "Transport",
+    "count": 5
+  },
+  {
+    "id": "brand-identity",
+    "label": "Brand identity",
+    "count": 5
+  },
+  {
+    "id": "poetry",
+    "label": "poetry",
+    "count": 5
+  },
+  {
+    "id": "artistic-practice",
+    "label": "artistic-practice",
+    "count": 5
+  },
+  {
+    "id": "3d",
+    "label": "3d",
+    "count": 5
+  },
+  {
+    "id": "exhibition-design",
+    "label": "exhibition design",
+    "count": 5
+  },
+  {
+    "id": "painting",
+    "label": "painting",
+    "count": 5
+  },
+  {
+    "id": "legacy-media",
+    "label": "legacy media",
+    "count": 5
+  },
+  {
+    "id": "home",
+    "label": "home",
+    "count": 5
+  },
+  {
+    "id": "art-direction",
+    "label": "art direction",
+    "count": 5
+  },
+  {
+    "id": "navigation",
+    "label": "navigation",
+    "count": 5
+  },
+  {
+    "id": "fantasy",
+    "label": "Fantasy",
+    "count": 5
+  },
+  {
+    "id": "capitalism",
+    "label": "Capitalism",
+    "count": 5
+  },
+  {
+    "id": "strategy",
+    "label": "strategy",
+    "count": 5
+  },
+  {
+    "id": "layout",
+    "label": "layout",
+    "count": 5
+  },
+  {
+    "id": "visual",
+    "label": "Visual",
+    "count": 5
+  },
+  {
+    "id": "flag-design",
+    "label": "Flag Design",
+    "count": 5
+  },
+  {
+    "id": "non-place",
+    "label": "Non-Place",
+    "count": 5
+  },
+  {
+    "id": "immersive",
+    "label": "Immersive",
+    "count": 5
+  },
+  {
+    "id": "historical",
+    "label": "Historical",
+    "count": 4
+  },
+  {
+    "id": "visual-effects",
+    "label": "Visual effects",
+    "count": 4
+  },
+  {
+    "id": "film-photography",
+    "label": "Film photography",
+    "count": 4
+  },
+  {
+    "id": "pattern",
+    "label": "Pattern",
+    "count": 4
+  },
+  {
+    "id": "feminism",
+    "label": "feminism",
+    "count": 4
+  },
+  {
+    "id": "more-than-human",
+    "label": "more-than-human",
+    "count": 4
+  },
+  {
+    "id": "portraits",
+    "label": "Portraits",
+    "count": 4
+  },
+  {
+    "id": "game",
+    "label": "game",
+    "count": 4
+  },
+  {
+    "id": "objects",
+    "label": "objects",
+    "count": 4
+  },
+  {
+    "id": "street-art",
+    "label": "Street Art",
+    "count": 4
+  },
+  {
+    "id": "stop-motion",
+    "label": "Stop Motion",
+    "count": 4
+  },
+  {
+    "id": "animals",
+    "label": "Animals",
+    "count": 4
+  },
+  {
+    "id": "corporate",
+    "label": "corporate",
+    "count": 4
+  },
+  {
+    "id": "essay",
+    "label": "Essay",
+    "count": 4
+  },
+  {
+    "id": "ethics",
+    "label": "ethics",
+    "count": 4
+  },
+  {
+    "id": "set-design",
+    "label": "Set Design",
+    "count": 4
+  },
+  {
+    "id": "logo",
+    "label": "Logo",
+    "count": 4
+  },
+  {
+    "id": "material",
+    "label": "material",
+    "count": 4
+  },
+  {
+    "id": "life",
+    "label": "life",
+    "count": 4
+  },
+  {
+    "id": "japanese",
+    "label": "Japanese",
+    "count": 4
+  },
+  {
+    "id": "place",
+    "label": "place",
+    "count": 4
+  },
+  {
+    "id": "audience",
+    "label": "Audience",
+    "count": 4
+  },
+  {
+    "id": "cinema",
+    "label": "Cinema",
+    "count": 4
+  },
+  {
+    "id": "human-experience",
+    "label": "human experience",
+    "count": 4
+  },
+  {
+    "id": "critical-thinking",
+    "label": "critical-thinking",
+    "count": 4
+  },
+  {
+    "id": "ux",
+    "label": "UX",
+    "count": 4
+  },
+  {
+    "id": "visual-identity",
+    "label": "visual identity",
+    "count": 4
+  },
+  {
+    "id": "middle-east",
+    "label": "middle east",
+    "count": 4
+  },
+  {
+    "id": "time-and-movement",
+    "label": "Time and movement",
+    "count": 4
+  },
+  {
+    "id": "creative-computing",
+    "label": "Creative Computing",
+    "count": 4
+  },
+  {
+    "id": "placeness",
+    "label": "Placeness",
+    "count": 4
+  },
+  {
+    "id": "physical",
+    "label": "physical",
+    "count": 4
+  },
+  {
+    "id": "relationship",
+    "label": "Relationship",
+    "count": 4
+  },
+  {
+    "id": "intimacy",
+    "label": "Intimacy",
+    "count": 4
+  },
+  {
+    "id": "graphic-design",
+    "label": "graphic design",
+    "count": 4
+  },
+  {
+    "id": "podcast",
+    "label": "Podcast",
+    "count": 4
+  },
+  {
+    "id": "publishing",
+    "label": "Publishing",
+    "count": 4
+  },
+  {
+    "id": "visual-storytelling",
+    "label": "visual storytelling",
+    "count": 4
+  },
+  {
+    "id": "design-systems",
+    "label": "design systems",
+    "count": 4
+  },
+  {
+    "id": "techniques",
+    "label": "techniques",
+    "count": 4
+  },
+  {
+    "id": "immersion",
+    "label": "immersion",
+    "count": 4
+  },
+  {
+    "id": "ecology",
+    "label": "ecology",
+    "count": 4
+  },
+  {
+    "id": "world-building",
+    "label": "World Building",
+    "count": 4
+  },
+  {
+    "id": "artist",
+    "label": "artist",
+    "count": 4
+  },
+  {
+    "id": "relationships",
+    "label": "Relationships",
+    "count": 4
+  },
+  {
+    "id": "ui",
+    "label": "UI",
+    "count": 4
+  },
+  {
+    "id": "magazine",
+    "label": "Magazine",
+    "count": 4
+  },
+  {
+    "id": "experience",
+    "label": "experience",
+    "count": 4
+  },
+  {
+    "id": "dystopian",
+    "label": "dystopian",
+    "count": 3
+  },
+  {
+    "id": "maps",
+    "label": "Maps",
+    "count": 3
+  },
+  {
+    "id": "people",
+    "label": "People",
+    "count": 3
+  },
+  {
+    "id": "performance",
+    "label": "Performance",
+    "count": 3
+  },
+  {
+    "id": "packaging",
+    "label": "Packaging",
+    "count": 3
+  },
+  {
+    "id": "environmental",
+    "label": "environmental",
+    "count": 3
+  },
+  {
+    "id": "soundtrack",
+    "label": "Soundtrack",
+    "count": 3
+  },
+  {
+    "id": "image-making",
+    "label": "image making",
+    "count": 3
+  },
+  {
+    "id": "japan",
+    "label": "Japan",
+    "count": 3
+  },
+  {
+    "id": "manuals",
+    "label": "Manuals",
+    "count": 3
+  },
+  {
+    "id": "humanity",
+    "label": "Humanity",
+    "count": 3
+  },
+  {
+    "id": "books",
+    "label": "Books",
+    "count": 3
+  },
+  {
+    "id": "society",
+    "label": "Society",
+    "count": 3
+  },
+  {
+    "id": "signs",
+    "label": "signs",
+    "count": 3
+  },
+  {
+    "id": "design-process",
+    "label": "Design process",
+    "count": 3
+  },
+  {
+    "id": "information",
+    "label": "information",
+    "count": 3
+  },
+  {
+    "id": "images",
+    "label": "images",
+    "count": 3
+  },
+  {
+    "id": "decolonisation",
+    "label": "decolonisation",
+    "count": 3
+  },
+  {
+    "id": "emotional-design",
+    "label": "emotional design",
+    "count": 3
+  },
+  {
+    "id": "way-finding",
+    "label": "Way-Finding",
+    "count": 3
+  },
+  {
+    "id": "infographics",
+    "label": "infographics",
+    "count": 3
+  },
+  {
+    "id": "consumerism",
+    "label": "consumerism",
+    "count": 3
+  },
+  {
+    "id": "futures",
+    "label": "Futures",
+    "count": 3
+  },
+  {
+    "id": "radio",
+    "label": "Radio",
+    "count": 3
+  },
+  {
+    "id": "literature",
+    "label": "Literature",
+    "count": 3
+  },
+  {
+    "id": "mixmedia",
+    "label": "mixmedia",
+    "count": 3
+  },
+  {
+    "id": "short-film",
+    "label": "short film",
+    "count": 3
+  },
+  {
+    "id": "motion",
+    "label": "motion",
+    "count": 3
+  },
+  {
+    "id": "design-strategy",
+    "label": "design-strategy",
+    "count": 3
+  },
+  {
+    "id": "death",
+    "label": "Death",
+    "count": 3
+  },
+  {
+    "id": "metaphor",
+    "label": "Metaphor",
+    "count": 3
+  },
+  {
+    "id": "climate-change",
+    "label": "Climate Change",
+    "count": 3
+  },
+  {
+    "id": "symbolism",
+    "label": "symbolism",
+    "count": 3
+  },
+  {
+    "id": "symbols",
+    "label": "Symbols",
+    "count": 3
+  },
+  {
+    "id": "3d-design",
+    "label": "3D design",
+    "count": 3
+  },
+  {
+    "id": "print",
+    "label": "print",
+    "count": 3
+  },
+  {
+    "id": "posters",
+    "label": "posters",
+    "count": 3
+  },
+  {
+    "id": "color-psychology",
+    "label": "Color psychology",
+    "count": 3
+  },
+  {
+    "id": "16mm-film",
+    "label": "16mm Film",
+    "count": 3
+  },
+  {
+    "id": "power",
+    "label": "power",
+    "count": 3
+  },
+  {
+    "id": "videogame",
+    "label": "VideoGame",
+    "count": 3
+  },
+  {
+    "id": "design-ethics",
+    "label": "design-ethics",
+    "count": 3
+  },
+  {
+    "id": "brand-dsign",
+    "label": "Brand Dsign",
+    "count": 3
+  },
+  {
+    "id": "war",
+    "label": "War",
+    "count": 3
+  },
+  {
+    "id": "science",
+    "label": "Science",
+    "count": 3
+  },
+  {
+    "id": "creativity",
+    "label": "creativity",
+    "count": 3
+  },
+  {
+    "id": "environmental-design",
+    "label": "Environmental Design",
+    "count": 3
+  },
+  {
+    "id": "dreamlike",
+    "label": "dreamlike",
+    "count": 3
+  },
+  {
+    "id": "kinetic-typography",
+    "label": "Kinetic typography",
+    "count": 3
+  },
+  {
+    "id": "human-connection",
+    "label": "Human connection",
+    "count": 3
+  },
+  {
+    "id": "dynamic-identity",
+    "label": "Dynamic Identity",
+    "count": 3
+  },
+  {
+    "id": "collections",
+    "label": "collections",
+    "count": 3
+  },
+  {
+    "id": "game-design",
+    "label": "Game design",
+    "count": 3
+  },
+  {
+    "id": "typograhy",
+    "label": "typograhy",
+    "count": 3
+  },
+  {
+    "id": "folklore",
+    "label": "folklore",
+    "count": 3
+  },
+  {
+    "id": "lensless",
+    "label": "Lensless",
+    "count": 3
+  },
+  {
+    "id": "art-history",
+    "label": "art history",
+    "count": 3
+  },
+  {
+    "id": "protest",
+    "label": "Protest",
+    "count": 3
+  },
+  {
+    "id": "design-philosophy",
+    "label": "Design Philosophy",
+    "count": 3
+  },
+  {
+    "id": "visual-culture",
+    "label": "visual culture",
+    "count": 3
+  },
+  {
+    "id": "process",
+    "label": "process",
+    "count": 3
+  },
+  {
+    "id": "empathy",
+    "label": "empathy",
+    "count": 3
+  },
+  {
+    "id": "natural-history-museum",
+    "label": "Natural History Museum",
+    "count": 3
+  },
+  {
+    "id": "celluloid-film",
+    "label": "Celluloid film",
+    "count": 3
+  },
+  {
+    "id": "collaboration",
+    "label": "collaboration",
+    "count": 3
+  },
+  {
+    "id": "website-design",
+    "label": "website design",
+    "count": 3
+  },
+  {
+    "id": "contemporary-design",
+    "label": "contemporary design",
+    "count": 2
+  },
+  {
+    "id": "attention-span",
+    "label": "attention span",
+    "count": 2
+  },
+  {
+    "id": "play",
+    "label": "play",
+    "count": 2
+  },
+  {
+    "id": "recycle",
+    "label": "Recycle",
+    "count": 2
+  },
+  {
+    "id": "facism",
+    "label": "Facism",
+    "count": 2
+  },
+  {
+    "id": "brand-ecosystem",
+    "label": "brand ecosystem",
+    "count": 2
+  },
+  {
+    "id": "film-making",
+    "label": "Film making",
+    "count": 2
+  },
+  {
+    "id": "writing",
+    "label": "writing",
+    "count": 2
+  },
+  {
+    "id": "pictogram",
+    "label": "Pictogram",
+    "count": 2
+  },
+  {
+    "id": "framework",
+    "label": "framework",
+    "count": 2
+  },
+  {
+    "id": "letterpress",
+    "label": "letterpress",
+    "count": 2
+  },
+  {
+    "id": "scale",
+    "label": "scale",
+    "count": 2
+  },
+  {
+    "id": "isolation",
+    "label": "isolation",
+    "count": 2
+  },
+  {
+    "id": "album",
+    "label": "album",
+    "count": 2
+  },
+  {
+    "id": "gaming",
+    "label": "gaming",
+    "count": 2
+  },
+  {
+    "id": "uncanny",
+    "label": "Uncanny",
+    "count": 2
+  },
+  {
+    "id": "pictograms",
+    "label": "Pictograms",
+    "count": 2
+  },
+  {
+    "id": "expressionist",
+    "label": "Expressionist",
+    "count": 2
+  },
+  {
+    "id": "digital-design",
+    "label": "digital design",
+    "count": 2
+  },
+  {
+    "id": "museums",
+    "label": "museums",
+    "count": 2
+  },
+  {
+    "id": "anime",
+    "label": "anime",
+    "count": 2
+  },
+  {
+    "id": "resistance",
+    "label": "Resistance",
+    "count": 2
+  },
+  {
+    "id": "design-history",
+    "label": "Design History",
+    "count": 2
+  },
+  {
+    "id": "functional-design",
+    "label": "functional design",
+    "count": 2
+  },
+  {
+    "id": "digital-collage",
+    "label": "digital collage",
+    "count": 2
+  },
+  {
+    "id": "scientific",
+    "label": "scientific",
+    "count": 2
+  },
+  {
+    "id": "flag",
+    "label": "flag",
+    "count": 2
+  },
+  {
+    "id": "speculativedesign",
+    "label": "speculativedesign",
+    "count": 2
+  },
+  {
+    "id": "reflection",
+    "label": "reflection",
+    "count": 2
+  },
+  {
+    "id": "fashion-film",
+    "label": "fashion film",
+    "count": 2
+  },
+  {
+    "id": "visual-identities",
+    "label": "visual identities",
+    "count": 2
+  },
+  {
+    "id": "cinematic",
+    "label": "cinematic",
+    "count": 2
+  },
+  {
+    "id": "fake-news",
+    "label": "fake news",
+    "count": 2
+  },
+  {
+    "id": "analogue-methods",
+    "label": "analogue methods",
+    "count": 2
+  },
+  {
+    "id": "documentary-style-cinematography",
+    "label": "Documentary-style cinematography",
+    "count": 2
+  },
+  {
+    "id": "heritage",
+    "label": "Heritage",
+    "count": 2
+  },
+  {
+    "id": "ornament",
+    "label": "ornament",
+    "count": 2
+  },
+  {
+    "id": "social-commentary",
+    "label": "Social commentary",
+    "count": 2
+  },
+  {
+    "id": "inforgraphic",
+    "label": "inforgraphic",
+    "count": 2
+  },
+  {
+    "id": "directing",
+    "label": "Directing",
+    "count": 2
+  },
+  {
+    "id": "curation",
+    "label": "curation",
+    "count": 2
+  },
+  {
+    "id": "filmtypography",
+    "label": "filmtypography",
+    "count": 2
+  },
+  {
+    "id": "memories",
+    "label": "memories",
+    "count": 2
+  },
+  {
+    "id": "worldbuilding",
+    "label": "worldbuilding",
+    "count": 2
+  },
+  {
+    "id": "repetition",
+    "label": "Repetition",
+    "count": 2
+  },
+  {
+    "id": "color",
+    "label": "color",
+    "count": 2
+  },
+  {
+    "id": "irony",
+    "label": "Irony",
+    "count": 2
+  },
+  {
+    "id": "cyberfeminism",
+    "label": "cyberfeminism",
+    "count": 2
+  },
+  {
+    "id": "the-subconscious",
+    "label": "the subconscious",
+    "count": 2
+  },
+  {
+    "id": "art-project",
+    "label": "art project",
+    "count": 2
+  },
+  {
+    "id": "scifi",
+    "label": "scifi",
+    "count": 2
+  },
+  {
+    "id": "public",
+    "label": "public",
+    "count": 2
+  },
+  {
+    "id": "viral",
+    "label": "viral",
+    "count": 2
+  },
+  {
+    "id": "action",
+    "label": "Action",
+    "count": 2
+  },
+  {
+    "id": "marketing",
+    "label": "Marketing",
+    "count": 2
+  },
+  {
+    "id": "weird",
+    "label": "WEIRD",
+    "count": 2
+  },
+  {
+    "id": "designer-as",
+    "label": "Designer As",
+    "count": 2
+  },
+  {
+    "id": "spatial-identity",
+    "label": "spatial Identity",
+    "count": 2
+  },
+  {
+    "id": "digital-age",
+    "label": "digital age",
+    "count": 2
+  },
+  {
+    "id": "retro",
+    "label": "retro",
+    "count": 2
+  },
+  {
+    "id": "historical-fiction",
+    "label": "Historical fiction",
+    "count": 2
+  },
+  {
+    "id": "control",
+    "label": "Control",
+    "count": 2
+  },
+  {
+    "id": "phenomenology",
+    "label": "phenomenology",
+    "count": 2
+  },
+  {
+    "id": "montage",
+    "label": "Montage",
+    "count": 2
+  },
+  {
+    "id": "design-principles",
+    "label": "Design Principles",
+    "count": 2
+  },
+  {
+    "id": "family",
+    "label": "family",
+    "count": 2
+  },
+  {
+    "id": "realities",
+    "label": "realities",
+    "count": 2
+  },
+  {
+    "id": "frutiger-aero",
+    "label": "Frutiger Aero",
+    "count": 2
+  },
+  {
+    "id": "editorial",
+    "label": "editorial",
+    "count": 2
+  },
+  {
+    "id": "identity-design",
+    "label": "Identity Design",
+    "count": 2
+  },
+  {
+    "id": "effects",
+    "label": "Effects",
+    "count": 2
+  },
+  {
+    "id": "coming-of-age",
+    "label": "coming of age",
+    "count": 2
+  },
+  {
+    "id": "surrealism",
+    "label": "Surrealism",
+    "count": 2
+  },
+  {
+    "id": "web-design",
+    "label": "Web Design",
+    "count": 2
+  },
+  {
+    "id": "city",
+    "label": "City",
+    "count": 2
+  },
+  {
+    "id": "narrative-and-voice",
+    "label": "narrative and voice",
+    "count": 2
+  },
+  {
+    "id": "multisensory",
+    "label": "multisensory",
+    "count": 2
+  },
+  {
+    "id": "dance",
+    "label": "Dance",
+    "count": 2
+  },
+  {
+    "id": "black-and-white",
+    "label": "Black and white",
+    "count": 2
+  },
+  {
+    "id": "imperfection",
+    "label": "Imperfection",
+    "count": 2
+  },
+  {
+    "id": "consumer",
+    "label": "consumer",
+    "count": 2
+  },
+  {
+    "id": "simplicity",
+    "label": "simplicity",
+    "count": 2
+  },
+  {
+    "id": "tragedy",
+    "label": "tragedy",
+    "count": 2
+  },
+  {
+    "id": "cities",
+    "label": "Cities",
+    "count": 2
+  },
+  {
+    "id": "participatory-design",
+    "label": "participatory design",
+    "count": 2
+  },
+  {
+    "id": "design-activism",
+    "label": "design-activism",
+    "count": 2
+  },
+  {
+    "id": "horror",
+    "label": "horror",
+    "count": 2
+  },
+  {
+    "id": "survival",
+    "label": "Survival",
+    "count": 2
+  },
+  {
+    "id": "construction-parameters",
+    "label": "Construction parameters",
+    "count": 2
+  },
+  {
+    "id": "sampling",
+    "label": "sampling",
+    "count": 2
+  },
+  {
+    "id": "printmaking",
+    "label": "Printmaking",
+    "count": 2
+  },
+  {
+    "id": "project",
+    "label": "project",
+    "count": 2
+  },
+  {
+    "id": "perspectives",
+    "label": "perspectives",
+    "count": 2
+  },
+  {
+    "id": "diagramming",
+    "label": "diagramming",
+    "count": 2
+  },
+  {
+    "id": "sci-fi",
+    "label": "sci-fi",
+    "count": 2
+  },
+  {
+    "id": "imagery",
+    "label": "Imagery",
+    "count": 2
+  },
+  {
+    "id": "adventure",
+    "label": "Adventure",
+    "count": 2
+  },
+  {
+    "id": "connections",
+    "label": "connections",
+    "count": 2
+  },
+  {
+    "id": "visual-design",
+    "label": "visual design",
+    "count": 2
+  },
+  {
+    "id": "visuals",
+    "label": "visuals",
+    "count": 2
+  },
+  {
+    "id": "physical-process",
+    "label": "physical process",
+    "count": 2
+  },
+  {
+    "id": "consumer-behaviour",
+    "label": "consumer behaviour",
+    "count": 2
+  },
+  {
+    "id": "non-corporate",
+    "label": "Non-corporate",
+    "count": 2
+  },
+  {
+    "id": "iconography",
+    "label": "Iconography",
+    "count": 2
+  },
+  {
+    "id": "multidisciplinary",
+    "label": "multidisciplinary",
+    "count": 2
+  },
+  {
+    "id": "growth",
+    "label": "Growth",
+    "count": 2
+  },
+  {
+    "id": "internet",
+    "label": "internet",
+    "count": 2
+  },
+  {
+    "id": "stillness",
+    "label": "stillness",
+    "count": 2
+  },
+  {
+    "id": "campaign",
+    "label": "Campaign",
+    "count": 2
+  },
+  {
+    "id": "title-sequences",
+    "label": "title sequences",
+    "count": 2
+  },
+  {
+    "id": "signages",
+    "label": "signages",
+    "count": 2
+  },
+  {
+    "id": "boxes",
+    "label": "boxes",
+    "count": 2
+  },
+  {
+    "id": "sustainability",
+    "label": "Sustainability",
+    "count": 2
+  },
+  {
+    "id": "brand-narrtive",
+    "label": "Brand narrtive",
+    "count": 2
+  },
+  {
+    "id": "advert",
+    "label": "advert",
+    "count": 2
+  },
+  {
+    "id": "conflict",
+    "label": "COnflict",
+    "count": 2
+  },
+  {
+    "id": "focus",
+    "label": "Focus",
+    "count": 2
+  },
+  {
+    "id": "brand-strategy",
+    "label": "brand strategy",
+    "count": 2
+  },
+  {
+    "id": "influence",
+    "label": "influence",
+    "count": 2
+  },
+  {
+    "id": "functionality-and-emotion",
+    "label": "functionality and emotion",
+    "count": 2
+  },
+  {
+    "id": "cityscape",
+    "label": "Cityscape",
+    "count": 2
+  },
+  {
+    "id": "glitch",
+    "label": "glitch",
+    "count": 2
+  },
+  {
+    "id": "p1-n&amp;v",
+    "label": "P1-N&amp;V",
+    "count": 2
+  },
+  {
+    "id": "risograph",
+    "label": "risograph",
+    "count": 2
+  },
+  {
+    "id": "comics",
+    "label": "comics",
+    "count": 2
+  },
+  {
+    "id": "playful-design",
+    "label": "Playful Design",
+    "count": 2
+  },
+  {
+    "id": "psychogeography",
+    "label": "psychogeography",
+    "count": 2
+  },
+  {
+    "id": "type",
+    "label": "type",
+    "count": 2
+  },
+  {
+    "id": "observation",
+    "label": "observation",
+    "count": 2
+  },
+  {
+    "id": "emotional",
+    "label": "emotional",
+    "count": 2
+  },
+  {
+    "id": "branding-and-identity",
+    "label": "Branding and Identity",
+    "count": 2
+  },
+  {
+    "id": "social-structures",
+    "label": "Social Structures",
+    "count": 2
+  },
+  {
+    "id": "visualisation",
+    "label": "visualisation",
+    "count": 2
+  },
+  {
+    "id": "rhythm",
+    "label": "Rhythm",
+    "count": 2
+  },
+  {
+    "id": "social-media",
+    "label": "social media",
+    "count": 2
+  },
+  {
+    "id": "reading",
+    "label": "reading",
+    "count": 2
+  },
+  {
+    "id": "modernism",
+    "label": "Modernism",
+    "count": 2
+  },
+  {
+    "id": "vernacular-design",
+    "label": "Vernacular Design",
+    "count": 2
+  },
+  {
+    "id": "design-approach",
+    "label": "design approach",
+    "count": 2
+  },
+  {
+    "id": "projection",
+    "label": "Projection",
+    "count": 2
+  },
+  {
+    "id": "consciousness",
+    "label": "Consciousness",
+    "count": 2
+  },
+  {
+    "id": "commercial",
+    "label": "commercial",
+    "count": 2
+  },
+  {
+    "id": "broadcasting",
+    "label": "Broadcasting",
+    "count": 2
+  },
+  {
+    "id": "experimental-film",
+    "label": "experimental film",
+    "count": 2
+  },
+  {
+    "id": "universal-design",
+    "label": "universal design",
+    "count": 2
+  },
+  {
+    "id": "grids",
+    "label": "Grids",
+    "count": 2
+  },
+  {
+    "id": "language",
+    "label": "language",
+    "count": 2
+  },
+  {
+    "id": "food",
+    "label": "Food",
+    "count": 2
+  },
+  {
+    "id": "drama",
+    "label": "Drama",
+    "count": 2
+  },
+  {
+    "id": "portrait",
+    "label": "portrait",
+    "count": 2
+  },
+  {
+    "id": "spatial-design",
+    "label": "spatial design",
+    "count": 2
+  },
+  {
+    "id": "drawing",
+    "label": "drawing",
+    "count": 2
+  },
+  {
+    "id": "representation",
+    "label": "representation",
+    "count": 2
+  },
+  {
+    "id": "box",
+    "label": "box",
+    "count": 2
+  },
+  {
+    "id": "vexillography",
+    "label": "Vexillography",
+    "count": 2
+  },
+  {
+    "id": "ted",
+    "label": "Ted",
+    "count": 2
+  },
+  {
+    "id": "professional-practice",
+    "label": "professional-practice",
+    "count": 2
+  },
+  {
+    "id": "video-essay",
+    "label": "Video Essay",
+    "count": 2
+  },
+  {
+    "id": "advertisement",
+    "label": "advertisement",
+    "count": 2
+  }
+]
